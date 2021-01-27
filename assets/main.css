@@ -1,8 +1,8 @@
 body { background-color: hsl(204, 43%, 93%) !important;font-family: 'Karla' !important; padding-top: 8% ; padding-bottom:5%;     }
-#main {height: 50%; width: 65%  ;  background-color: white; border-radius:7px 7px 7px 7px !important; padding-top: 3%;overflow:hidden;}
+#main {width:45% ;  background-color: white; border-radius:7px 7px 7px 7px !important; padding-top: 3%;overflow:hidden;}
 #left{padding-top:5%; background-color:#2BB3B1; padding-left:5% ; color: white; padding-bottom:30px }
 #right{padding-top:5%; background-color: #4ABEBD; padding-left: 5%;color: white }
-.btn-primary {background-color:#BFDF32 !important;border-color:rgb(168, 197, 37) !important;width: 55% !important; }
+.btn-primary {background-color:#BFDF32 !important;border-color:rgb(168, 197, 37) !important;width: 195px !important; }
 .btn-primary:hover{background-color:rgb(184, 218, 33) !important;color: rgb(255, 255, 255) !important; border-color:rgb(184, 218, 33) !important  }
 .btn-primary:active{border-color:#BFDF32 !important;color: white !important }
 .btn:focus, .btn:active {
